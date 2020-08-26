@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pi-shield)(type KiCad)(uri ${KIPRJMOD}/pi-shield.pretty)(options "")(descr ""))
+)
