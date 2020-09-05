@@ -737,17 +737,6 @@ F 3 "~" H 9700 5950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H4
-U 1 1 5F2B9E8F
-P 9700 6150
-F 0 "H4" V 9654 6300 50  0000 L CNN
-F 1 "M2" V 9745 6300 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad_Via" H 9700 6150 50  0001 C CNN
-F 3 "~" H 9700 6150 50  0001 C CNN
-	1    9700 6150
-	0    1    1    0   
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x04 J8
 U 1 1 5F2E3335
 P 7600 2750
@@ -898,12 +887,6 @@ Wire Wire Line
 NoConn ~ 1250 3000
 NoConn ~ 1750 3100
 NoConn ~ 1750 3200
-Text Label 750  1800 0    50   ~ 0
-BTN_TEAM1
-Text Label 750  1900 0    50   ~ 0
-BTN_TEAM2
-Text Label 750  2000 0    50   ~ 0
-BTN_START
 Wire Wire Line
 	750  2000 1250 2000
 Wire Wire Line
@@ -1245,8 +1228,6 @@ Wire Wire Line
 Wire Wire Line
 	9550 6200 9550 6150
 Connection ~ 9550 6150
-Wire Wire Line
-	9550 6150 9600 6150
 Wire Wire Line
 	9500 5950 9550 5950
 Wire Wire Line
@@ -2138,4 +2119,10 @@ F 3 "" H 3450 1000 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3450 1000 3450 1050
+Text Label 750  1800 0    50   ~ 0
+BTN_START
+Text Label 750  1900 0    50   ~ 0
+BTN_TEAM2
+Text Label 750  2000 0    50   ~ 0
+BTN_TEAM1
 $EndSCHEMATC
