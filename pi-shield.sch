@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Robot Shield"
-Date "2020-07-02"
-Rev "Draft 1"
+Date "08 Sep 2020"
+Rev "Git bf80ecc"
 Comp "Club Vaudois de Robotique Autonome"
 Comment1 "cvra.ch"
 Comment2 "Antoine Albertelli"
