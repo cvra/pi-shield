@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Robot Shield"
 Date "08 Sep 2020"
-Rev "Git bf80ecc"
-Comp "Club Vaudois de Robotique Autonome"
-Comment1 "cvra.ch"
+Rev "RevA"
+Comp "Club Vaudois de Robotique Autonome (cvra.ch)"
+Comment1 "Git commit 154dddff4cd11414ec208159d462d67b35f2c54b"
 Comment2 "Antoine Albertelli"
 Comment3 "Michael Spieler"
 Comment4 "CC-BY-SA"
